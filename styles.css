@@ -594,6 +594,10 @@ body {
     background: linear-gradient(135deg, var(--accent-orange), #d97706);
 }
 
+.award-badge {
+    background: linear-gradient(135deg, var(--accent-purple), #7c3aed);
+}
+
 .publication h3 {
     font-size: 1.65rem;
     margin-bottom: 1rem;
